@@ -246,6 +246,25 @@ Topics covered:
 
 [Back to top](#top)
 
+### Density Functional Theory (CHM 696) <a id='dft'></a>
+
+***Instructor***
+Adam Wasserman [email](mailto:awasser@purdue.edu)
+
+Course description:  Density Functional Theory (DFT) is a useful computational approach to solve the electronic Schrödinger equation for molecules and materials. This course will cover the essential fundamental and practical aspects of DFT: 
+- What are density functionals?
+- Where do they come from?
+- Why do they work?
+- When do they fail?
+- How can we use them in practice to understand the electronic properties of molecules and materials?
+
+Prerequisite: The course is suitable for beginning graduate students or for undergraduate science and engineering students who have had a first course on Quantum Mechanics (e.g. the one-electron Schrödinger equation and basic linear algebra), such as CHM-373 at Purdue.
+
+Typically offered Spring
+
+[Back to top](#top)
+
+
 ### Quantum Optics (CHM 696) <a id='qo'></a>
 
 ***Instructor***
