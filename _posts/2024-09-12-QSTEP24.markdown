@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Quantum Science, Technology, and Engineering at Purdue"
+date:   2024-09-12
+categories: jekyll update
+---
+
+
+We are excited to announce our second <a href="/events/QSTEP24">Quantum Science, Technology, and Engineering at Purdue</a> workshop for undergraduates and early-career graduate students interested in applications of molecular chemistry and physics to the quantum sciences. Want to learn more about quantum technology but don't know where to start? Join us for an introduction (with applications) to quantum information, quantum optics, decoherence, electronic structure and more. Registration is free, but a limited number of seats are available. 
+
+
