@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quantum Science, Technology, and Engineering at Purdue"
-date:   2024-09-05
+date:   2025-09-05
 categories: jekyll update
 ---
 
